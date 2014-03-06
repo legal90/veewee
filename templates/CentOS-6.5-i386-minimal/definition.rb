@@ -31,6 +31,7 @@ Veewee::Session.declare({
     "vagrant.sh",
     #"vmfusion.sh",
     "virtualbox.sh",
+    # "parallels.sh",
     "cleanup.sh",
     "zerodisk.sh"
   ],

@@ -53,6 +53,7 @@ Veewee::Definition.declare({
     "puppet.sh",
     "chef.sh",
     "cleanup-virtualbox.sh",
+    # "parallels.sh",
     "cleanup.sh",
     "zerodisk.sh"
   ],

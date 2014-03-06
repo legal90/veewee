@@ -33,6 +33,7 @@ Veewee::Session.declare({
     "virtualbox.sh",
     #"kvm.sh",
     #"vmfusion.sh",
+    # "parallels.sh",
     "cleanup.sh",
     "zerodisk.sh"
   ],

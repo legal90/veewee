@@ -37,6 +37,7 @@ Veewee::Session.declare({
     "ruby.sh",
     "puppet.sh",
     "chef.sh",
+    # "parallels.sh",
     "cleanup.sh",
     "zerodisk.sh"
   ],
